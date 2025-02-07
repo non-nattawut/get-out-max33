@@ -1,7 +1,7 @@
 # get-out-max33
 
 1. Click at max33.txt
-![image](https://github.com/user-attachments/assets/86988c5a-491a-4fd7-bbc3-e45672199fc2)
+![image](https://github.com/user-attachments/assets/67d28bc8-9226-41f7-a276-02dc70c126a2)
 
 2. click copy raw file
 ![image](https://github.com/user-attachments/assets/bb13288a-af9f-4b7d-a65c-293b58c4381f)
